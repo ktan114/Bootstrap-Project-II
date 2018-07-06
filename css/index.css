@@ -16,13 +16,13 @@ body {
   background-color: white;
   border-bottom: 2px dashed silver;
 }
-.logo-heading {
+.container-fluid .logo-heading {
   padding: 20px 0 10px;
 }
-.navbar {
+.container-fluid .navbar {
   background-color: white !important;
 }
-.navbar a {
+.container-fluid .navbar a {
   color: black;
 }
 .container {
